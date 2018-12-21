@@ -1,4 +1,0 @@
-************************************
-*           TEST SUMMARY           *
-************************************
-\n***** Test case com.summit.nexos.sdk.TelephonyManagerTest#callOutgoing failed. \n***** Test case com.summit.nexos.sdk.TelephonyManagerTest#callMe failed. \n***** Test case com.summit.nexos.sdk.TelephonyManagerTest#answerCall failed. \n***** Test case com.summit.nexos.sdk.TelephonyManagerTest#answerCallRemote failed. \n***** Test case com.summit.nexos.sdk.TelephonyManagerTest#rejectCall passed. \n***** Test case com.summit.nexos.sdk.TelephonyManagerTest#holdCallLocal passed. \n***** Test case com.summit.nexos.sdk.TelephonyManagerTest#holdCallRemote passed. \n***** Test case com.summit.nexos.sdk.TelephonyManagerTest#holdCallRemoteAndLocal passed. \n***** Test case com.summit.nexos.sdk.TelephonyManagerTest#muteCall passed.

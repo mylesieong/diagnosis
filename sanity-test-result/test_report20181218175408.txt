@@ -1,4 +1,0 @@
-************************************
-*           TEST SUMMARY           *
-************************************
-\n***** Test case com.summit.nexos.sdk.ChatbotManagerTest#convertJsonToChatbotInfo failed. \n***** Test case com.summit.nexos.sdk.ChatbotManagerTest#convertJsonToChatbotMessageRichCard passed. \n***** Test case com.summit.nexos.sdk.ChatbotManagerTest#convertJsonToChatbotMessageRichCardTest failed. \n***** Test case com.summit.nexos.sdk.ChatbotManagerTest#convertJsonToChatbotMessageCarousel failed. \n***** Test case com.summit.nexos.sdk.ChatbotManagerTest#convertJsonToChatbotMessageSuggestedChipList failed. \n***** Test case com.summit.nexos.sdk.ChatbotManagerTest#convertJsonToChatbotResponseReply failed. \n***** Test case com.summit.nexos.sdk.ChatbotManagerTest#convertJsonToChatbotResponseAction failed. \n***** Test case com.summit.nexos.sdk.ChatbotManagerTest#sendMessage failed.
