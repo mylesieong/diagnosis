@@ -1,0 +1,3 @@
+*           TEST SUMMARY           *
+************************************
+\n***** Test case com.summit.nexos.sdk.LocationManagerTest#sendLocationToChat passed. \n***** Test case com.summit.nexos.sdk.LocationManagerTest#sendLocationToGroupChat passed. \n***** Test case com.summit.nexos.sdk.LocationManagerTest#pushLocation passed. \n***** Test case com.summit.nexos.sdk.LocationManagerTest#pullLocation passed.

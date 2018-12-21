@@ -1,0 +1,4 @@
+************************************
+*           TEST SUMMARY           *
+************************************
+\n***** Test case com.summit.nexos.sdk.ProvisioningRcsTest#test_provisionWithRcsSt failed. \n***** Test case com.summit.nexos.sdk.ProvisioningRcsTest#test_provisionWithRcsSt_wrongCredentials passed. \n***** Test case com.summit.nexos.sdk.ProvisioningRcsTest#test_provisionWithErlangServer failed. \n***** Test case com.summit.nexos.sdk.ProvisioningRcsTest#test_provisionWithErlangServer_wrongOtpCode failed. \n***** Test case com.summit.nexos.sdk.ProvisioningRcsTest#test_multipleSignInAndSignOut passed. \n***** Test case com.summit.nexos.sdk.ProvisioningRcsTest#test_provisionWithRandomSelectedNetworkConfig passed.
